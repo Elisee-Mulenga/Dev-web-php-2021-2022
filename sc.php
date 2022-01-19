@@ -12,10 +12,11 @@
             // On crée notre array $coordonnees
             $coordonnees = array (
             'prenom' => 'François',
-            'nom' => 'Dupont',
+            'nom' => 'Elisée ULENGA',
             'adresse' => '3 Rue du Paradis',
             'ville' => 'Paris ma ville adorée');
             echo 'ville';
+            echo 'nom';
         ?>
 
     </body>
