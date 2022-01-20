@@ -31,24 +31,11 @@
         <?php 
             echo "il est ".Date("H:i:s")."<br>"; 
             if ( Date("H") < 12 ) { 
-            echo "Bon matin .."; 
+            echo "Bon matin Elisee .."; 
             } else { 
             echo "Bonne après midi .."; 
             } 
             echo 'Hello word, hello Esis je suis dans un cas zarbi'; 
-        ?>
-    </body>
-</html>
-
-
-<html>
-    <head>
-        <title>Exercice PHP 1.1</title>
-    </head>
-
-    <body>
-        <?php
-        echo "Hello world !";
         ?>
     </body>
 </html>
